@@ -1,0 +1,14 @@
+runtime: nodejs
+env: flex
+# automatic_scaling:
+#    min_num_instances: 1
+#
+# handlers:
+# - url: /
+#   static_files: public/index.html
+#   upload: public/index.html
+#
+#
+# - url: /(.*)
+#   static_files: public/\1
+#   upload: public/(.*)
